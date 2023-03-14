@@ -1,3 +1,3 @@
 # Algoritmos 2
 
-Repositório para a matéria de algoritmos 2
+Repositório para meus códigos da matéria de algoritmos 2

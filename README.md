@@ -1,3 +1,3 @@
 # Algoritmos 2
 
-repositório para a matéria de algoritmos 2
+Repositório para a matéria de algoritmos 2
